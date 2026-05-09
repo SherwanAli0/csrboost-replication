@@ -1,15 +1,20 @@
 # A Forensic Audit and Reverse-Engineering of CSRBoost
 
-> Forensic replication of the imbalanced-classification benchmark in:
+> Replication study and forensic audit of:
 > S. Yadav, S. Gupta, A. K. Yadav, and S. Gupta. *CSRBoost: Clustered Sampling With Resampling Boosting for Imbalanced Dataset Pattern Classification.* IEEE Access, 2025.
 > [DOI: 10.1109/ACCESS.2025.3616207](https://doi.org/10.1109/ACCESS.2025.3616207)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Status: thesis manuscript](https://img.shields.io/badge/status-thesis%20manuscript-orange.svg)](#status)
 
 **Author:** Sherwan Ali, Department of Computer Engineering, Uskudar University.
 **Supervisor:** Dr. Gamze Uslu.
 **Project type:** Solo undergraduate graduation thesis, 2026.
+
+## Status
+
+This repository contains an undergraduate graduation thesis manuscript and the accompanying replication code. **It has not been submitted to or peer-reviewed by any journal or conference, and has not been published.** Citations to it should be made as a thesis or technical report, not as a peer-reviewed publication. References elsewhere in this README to "published" results, "the publication", or "the paper" refer to the original CSRBoost paper by Yadav et al. (IEEE Access 2025), not to this work.
 
 ## Abstract
 

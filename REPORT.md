@@ -5,6 +5,9 @@
 **Author:** Sherwan Ali, Department of Computer Engineering, Faculty of Engineering and Natural Sciences, Uskudar University, Istanbul, Turkey.
 **Supervisor:** Dr. Gamze Uslu.
 **Year:** 2026.
+**Status:** Undergraduate graduation thesis manuscript. Not peer-reviewed and not published. Cite as a thesis or technical report, not as a peer-reviewed publication.
+
+Throughout this document, references to "the publication", "the original paper", and "published values" refer to the CSRBoost paper by Yadav et al. (IEEE Access 2025), not to this work.
 
 ---
 
