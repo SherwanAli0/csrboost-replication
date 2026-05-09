@@ -259,7 +259,7 @@ This audit is a reproducibility study, not an accusation of intent. The findings
   year         = {2026},
   type         = {Undergraduate graduation thesis},
   supervisor   = {Uslu, Gamze},
-  url          = {https://github.com/SherwanAli0/csrboost-replication}
+  url          = {https://github.com/SherwanAli0/csrboost-audit}
 }
 
 @article{yadav2025csrboost,
